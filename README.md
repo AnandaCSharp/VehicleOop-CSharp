@@ -47,14 +47,7 @@ VehicleOop/
 2. Press `Ctrl + F5` to run
 3. Follow the console instructions
 
----
 
-## 👨‍💻 Author
-
-**Rifat Hossain**   
-GitHub: [rifatsCreations](https://github.com/rifatsCreations)
-
----
 
 ## 📝 License
 
